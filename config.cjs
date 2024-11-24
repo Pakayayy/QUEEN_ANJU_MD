@@ -19,7 +19,7 @@ module.exports = {
   "BTN_MSG": false,
   "OWNER_NAME": "MR Rowdy",
   "NEWS_JID": "",
-  "AUTO_TYPING": false,
+  "AUTO_TYPING": true,
   "AUTO_RECORDING": true,
   "AUTO_NEWS": false
 };
